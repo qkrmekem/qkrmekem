@@ -18,9 +18,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
-## 📫 How to reach me: ...
+## 📫 About me:
 #### ✉Email : magicofclown@naver.com
-#### 
+#### ✏️Velog : [My Velog](https://velog.io/@qkrmekem)
 </div>
 
 <!--
