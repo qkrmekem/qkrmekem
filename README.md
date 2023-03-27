@@ -20,7 +20,7 @@
 
 ## 📫 About me:
 #### ✉Email : magicofclown@naver.com
-#### ✏️Velog : [My Velog](https://velog.io/@qkrmekem)
+#### ✏️Velog(기술 블로그) : [My Velog](https://velog.io/@qkrmekem)
 </div>
 
 <!--
