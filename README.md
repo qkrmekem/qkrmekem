@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/jpa-071D49?style=for-the-badge&logo=jpa&logoColor=white">
 <br>
+  <img src="https://img.shields.io/badge/springsecurity-F7DF1E?style=for-the-badge&logo=springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
