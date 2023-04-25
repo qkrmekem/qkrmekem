@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=👋Hi%20there&fontSize=90)<br>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=👋WEB%20DEVELOPER&fontSize=90)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/qkrmekem/qkrmekem)
 
 ## 🛠Stack⚒
@@ -23,6 +23,7 @@
 ## 📫 About me:
 #### ✉Email : magicofclown@naver.com
 #### ✏️Velog(기술 블로그) : [My Velog](https://velog.io/@qkrmekem)
+#### 😄Portfolio : [My Portfolio](https://internal-fly-5da.notion.site/302d3ebff5a642f6bc83c3926a4b1465)
 </div>
 
 <!--
