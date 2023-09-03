@@ -22,11 +22,11 @@
 
 ## 📫 About me:
 #### ✉Email : magicofclown@naver.com
-#### 저에게 연락을 원하신다면 메일을 보내주세요
+
 #### ✏️Velog(기술 블로그) : [My Velog](https://velog.io/@qkrmekem)
-##### 습득한 지식들은 기술 블로그를 이용해 기록하고 있습니다.
-#### 😄Portfolio(포트폴리오) : [My Portfolio](https://internal-fly-5da.notion.site/302d3ebff5a642f6bc83c3926a4b1465)
-##### 저에 대해 정리해 놓은 포트폴리오입니다!
+##### 습득한 지식들은 기술 블로그를 이용해 기록하고 있습니다
+#### 😄Portfolio : [My Portfolio](https://internal-fly-5da.notion.site/302d3ebff5a642f6bc83c3926a4b1465)
+
 </div>
 
 <!--
