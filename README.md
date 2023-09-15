@@ -19,15 +19,21 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<div align="left" style="padding-left:2em;">
+  
+<h2> 📫 About me:</h2>
+ ✉Email : magicofclown@naver.com</h4>
 
-## 📫 About me:
-#### ✉Email : magicofclown@naver.com
-
-#### ✏️Velog(기술 블로그) : [My Velog](https://velog.io/@qkrmekem)
-##### 습득한 지식들은 기술 블로그를 이용해 기록하고 있습니다
-#### 😄Portfolio : [My Portfolio](https://internal-fly-5da.notion.site/302d3ebff5a642f6bc83c3926a4b1465)
+<h4> ✏️Velog(기술 블로그) : [My Velog](https://velog.io/@qkrmekem)</h4>
+<h4> 습득한 지식들은 기술 블로그를 이용해 기록하고 있습니다</h4>
+<h4> 😄Portfolio : [My Portfolio](https://internal-fly-5da.notion.site/302d3ebff5a642f6bc83c3926a4b1465)</h4>
 
 </div>
+
+</div>
+
+
+
 
 <!--
 **qkrmekem/qkrmekem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
