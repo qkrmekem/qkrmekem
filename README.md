@@ -24,8 +24,8 @@
 <h2> 📫 About me:</h2>
  ✉Email : magicofclown@naver.com</h4>
 
-<h4> ✏️Velog(기술 블로그) : https://velog.io/@qkrmekem</h4>
-<h4> 습득한 지식들은 기술 블로그를 이용해 기록하고 있습니다</h4>
+<h4> ✏️Velog(기술 블로그) : https://velog.io/@qkrmekem
+<br> 습득한 지식들은 기술 블로그를 이용해 기록하고 있습니다</h4>
 <h4> 😄Portfolio : https://internal-fly-5da.notion.site/302d3ebff5a642f6bc83c3926a4b1465</h4>
 
 </div>
