@@ -3,42 +3,44 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=👋SOFTWARE%20ENGINEER&fontSize=70)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/qkrmekem/qkrmekem)
 
-## 🛠Stack⚒
-<img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/d3-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white">
-<img src="https://img.shields.io/badge/typeorm-FF3E00?style=for-the-badge&logo=typeorm&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+## 💫 About Me
+### 🚀 풀스택 개발자
+> **" 0 To 1을 실현하는 개발자"**
+
+✨ **6개월간 5개 프로젝트 0→1 개발 완주** | 이커머스 플랫폼부터 실시간 채팅, 노코드 폼 빌더까지  
+🎯 **단독 개발로 검증된 풀스택 역량** | 기획-설계-개발-배포 전 과정 경험  
+🔥 **실시간 통신 & 복잡한 상태관리 특화** | Socket.io, RxJS를 활용한 고성능 시스템 구축  
+
+## 🛠 Tech Stack ⚒
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white">
+
+### ⚡ Backend
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/TypeORM-FF3E00?style=for-the-badge&logo=typeorm&logoColor=white"> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+
+### 🗄️ Database & Infra
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+## 🏆 Key Achievements
+
+| 프로젝트 | 기간 | 핵심 기술 | 성과 |
+|:---:|:---:|:---:|:---|
+| **멀티벤더 이커머스** | 1.5개월 | NestJS, TypeORM | 40+ API 엔드포인트, 8단계 비즈니스 플로우 |
+| **하이브리드 CS 플랫폼** | 1개월 | Socket.io, 실시간 통신 | 12+ Socket 이벤트, 5단계 상태관리 |
+| **노코드 폼 빌더** | 1개월 | Factory 패턴, 동적 컴포넌트 | 8가지 질문 유형, 실시간 검증 |
+| **팀 협업 플랫폼** | 2개월 | RBAC, JWT | 3계층 권한 체계, 7일 세션 유지 |
 
 <div align="left" style="padding-left:2em;">
   
-<h2> 📫 About me:</h2>
- ✉Email : magicofclown@naver.com</h4>
+## 📫 Contact & More
 
-<h4> ✏️Velog(기술 블로그) : <a href="https://velog.io/@qkrmekem">벨로그 보러 가기</a></h4>
-<br> <span>습득한 지식들은 기술 블로그를 이용해 기록하고 있습니다</span>
-<h4> 😄Portfolio : <a href="https://internal-fly-5da.notion.site/302d3ebff5a642f6bc83c3926a4b1465">포트폴리오 보러 가기</a></h4>
+📧 **Email**: magicofclown@naver.com  
+✏️ **Tech Blog**: <a href="https://velog.io/@qkrmekem">벨로그에서 기술 인사이트 공유 중</a>  
+📁 **Portfolio**: <a href="https://internal-fly-5da.notion.site/302d3ebff5a642f6bc83c3926a4b1465">상세 프로젝트 보러 가기</a>  
+
+> 💡 **"배운 것은 나누고, 경험한 것은 기록하며, 새로운 도전을 두려워하지 않는 개발자입니다"**
 
 </div>
 
 </div>
-
-
-
-
-<!--
-**qkrmekem/qkrmekem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
