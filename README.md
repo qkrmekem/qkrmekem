@@ -34,9 +34,8 @@
   
 ## 📫 Contact & More
 
-📧 **Email**: magicofclown@naver.com  
+📧 **Email**: magicofclown@gmail.com  
 ✏️ **Tech Blog**: <a href="https://velog.io/@qkrmekem">벨로그에서 기술 인사이트 공유 중</a>  
-📁 **Portfolio**: <a href="https://internal-fly-5da.notion.site/302d3ebff5a642f6bc83c3926a4b1465">상세 프로젝트 보러 가기</a>  
 
 > 💡 **"배운 것은 나누고, 경험한 것은 기록하며, 새로운 도전을 두려워하지 않는 개발자입니다"**
 
