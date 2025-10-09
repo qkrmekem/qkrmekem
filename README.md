@@ -21,15 +21,6 @@
 ### 🗄️ Database & Infra
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-## 🏆 Key Achievements
-
-| 프로젝트 | 기간 | 핵심 기술 | 성과 |
-|:---:|:---:|:---:|:---|
-| **멀티벤더 이커머스** | 1.5개월 | NestJS, TypeORM | 40+ API 엔드포인트, 8단계 비즈니스 플로우 |
-| **하이브리드 CS 플랫폼** | 1개월 | Socket.io, 실시간 통신 | 12+ Socket 이벤트, 5단계 상태관리 |
-| **노코드 폼 빌더** | 1개월 | Factory 패턴, 동적 컴포넌트 | 8가지 질문 유형, 실시간 검증 |
-| **팀 협업 플랫폼** | 2개월 | RBAC, JWT | 3계층 권한 체계, 7일 세션 유지 |
-
 <div align="left" style="padding-left:2em;">
   
 ## 📫 Contact & More
