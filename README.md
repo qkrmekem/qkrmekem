@@ -8,8 +8,6 @@
 > **" 0 To 1을 실현하는 개발자"** </br>
 > 💡 **"배운 것은 나누고, 경험한 것은 기록하며, 새로운 도전을 두려워하지 않는 개발자입니다"**
 
-🎯 **단독 개발로 검증된 풀스택 역량** | 기획-설계-개발-배포 전 과정 경험  
-
 ## 🛠 Tech Stack ⚒
 
 ### 🎨 Frontend
@@ -25,7 +23,7 @@
 <img src="https://img.shields.io/badge/TypeORM-FF3E00?style=for-the-badge&logo=typeorm&logoColor=white"> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 
 ### 🗄️ Database & Infra
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 
 <div align="left" style="padding-left:2em;">
   
